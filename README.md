@@ -2,7 +2,7 @@
 ## 📌I`m student and currently studying to be a programmer
 ___
 
-> + 👁️‍🗨️ Currently learning C#
+> + 👁️‍🗨️ C++ | C# | Angular 
 > 
 > + 🖥️ Looking for employment
 > 

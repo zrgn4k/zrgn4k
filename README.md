@@ -19,6 +19,7 @@ Console.WriteLine("Check some of my repos!");
 
 📌[Instagram](https://www.instagram.com/zrgn4k/)</br>
 📌[Facebook](https://www.facebook.com/profile.php?id=100009251593438)</br>
+📌[LinkedIn](https://www.linkedin.com/in/yevhenii-kapitonov-a0577a1a3/)</br>
 </br>
 📪 or write to my email:</br>
 zargon4ik@gmail.com
